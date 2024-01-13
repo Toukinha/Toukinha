@@ -31,7 +31,7 @@
 ### Studying in this moment:
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Toukinha&theme=gotham)
+
 
 <div align="center">  
 <a href="https://www.instagram.com/toullka_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
